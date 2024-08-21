@@ -1,6 +1,6 @@
 # Elevate Customer Satisfaction: Revolutionize Supply Chain with SQL-Driven Inventory Optimization
 
-![excel-to-powerbi-animated-diagram](assets/images/powerBI_project.png)
+![Mysql-diagram](assets/images/Mysql.png)
 
 
 
